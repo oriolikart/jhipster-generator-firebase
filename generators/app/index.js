@@ -6,7 +6,7 @@ const packagejs = require('../../package.json')
 const utilYaml = require('./utilYaml.js');
 
 const FCM = 'fcm';
-const DEAULT_FIREBASE_TYPE = 'FCM';
+const DEFAULT_FIREBASE_TYPE = 'FCM';
 const DEFAULT_FIREBASE_SERVER_KEY = '1234bcnxbc';
 const DEAULT_FIREBASE_API_URL = 'https://fcm.googleapis.com/fcm/send';
 
